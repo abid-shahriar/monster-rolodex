@@ -1,0 +1,14 @@
+.searchField {
+  appearance: none;
+  height: 50px;
+  width: 300px;
+  padding: 5px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  padding-left: 20px;
+}
+
+.searchField::placeholder {
+  font-size: 20px;
+}

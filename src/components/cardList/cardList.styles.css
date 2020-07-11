@@ -1,0 +1,8 @@
+.cardList {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  height: auto;
+  padding: 2rem;
+  color: white;
+  grid-gap: 1rem;
+}
